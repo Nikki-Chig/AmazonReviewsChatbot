@@ -52,3 +52,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using Fa
 - `rag/rag_pipeline.py`: Contains the implementation of the RAG pipeline.
 - `templates/request.py`: Defines the request model.
 - `templates/response.py`: Defines the response model.
+
+## Research Paper
+For more information, refer to the research paper:
+[Generative AI Conversational Bot for Enhanced Product Review Insights](https://github.com/Nikki-Chig/AmazonReviewsChatbot/blob/main/Generative_AI_Conversational_Bot_for_Enhanced_Product_Review_Insights.pdf)
